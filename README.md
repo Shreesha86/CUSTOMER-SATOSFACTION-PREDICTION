@@ -72,7 +72,10 @@ Avg Satisfaction = AVERAGE('custSup_cleaned'[Customer Satisfaction Rating])
 Avg Resolution Time = AVERAGE('custSup_cleaned'[Resolution Time Hours])
 Avg Response Delay = AVERAGE('custSup_cleaned'[Response Delay Minutes])
 
-🙌 Author
-Shreesha P
+```
+
+## 🙌 Author
+```Shreesha P
 Data Analyst Intern
 🔗 LinkedIn
+```
