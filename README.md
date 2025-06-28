@@ -64,18 +64,22 @@ This project aims to analyze customer support ticket data to uncover key factors
 
 ---
 
-## 📐 DAX Measures Used
+## 📌 Project Status
 
-```DAX
-Total Tickets = COUNTROWS('custSup_cleaned')
-Avg Satisfaction = AVERAGE('custSup_cleaned'[Customer Satisfaction Rating])
-Avg Resolution Time = AVERAGE('custSup_cleaned'[Resolution Time Hours])
-Avg Response Delay = AVERAGE('custSup_cleaned'[Response Delay Minutes])
+✅ Completed 
 
-```
+---
 
-## 🙌 Author
-```Shreesha P
-Data Analyst Intern
-🔗 LinkedIn
-```
+## 🔗How to Use
+
+1. Download the `.pbix` file from this repository
+2. Open it using **Microsoft Power BI Desktop**
+3. Interact with filters and visuals to explore trends
+
+---
+## 👤 Author
+
+**Shreesha – Data Analyst Intern**  
+[LinkedIn Profile](https://www.linkedin.com/in/shreesha-poojary85)
+
+ 
